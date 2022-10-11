@@ -58,3 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Remove large files
+/*.zip
+/*.vscode
+/*.unitypackage
+/Assets/Firebase/
+/Assets/Editor Default Resources/
+/Assets/Plugins/
+/Assets/Firebase.meta/
+/Assets/StreamingAssets/
+google-services.*
+/NemoheroApp
+/ProjectSettings
