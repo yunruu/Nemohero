@@ -12,3 +12,6 @@ The project is created in lieu of the team's interest in creating an anonymous p
 ## Team Members
 - **May 2022 - Aug 2022**
 - **Software Dev**: Chin Yun Ru, Pang Zi Shan Dilys.
+
+## Getting Started
+- Simply download [this](https://github.com/yunruu/nemohero/releases/tag/v1.0) file and run it to play the game! 
